@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>Feeds exported by Snackr</title>
-    <dateCreated>Fri Jun 5 18:54:07 2015 UTC</dateCreated>
+    <dateCreated>Fri Jun 5 18:58:17 2015 UTC</dateCreated>
   </head>
   <body>
     <outline text="" xmlUrl="http://puertoricotaxincentives.com/feed/" htmlUrl=""/>
@@ -399,5 +399,6 @@
     <outline text="xkcd.com" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="http://xkcd.com/"/>
     <outline text="{errorception} blog" xmlUrl="http://feeds.feedburner.com/errorceptionBlog" htmlUrl="http://blog.errorception.com/"/>
     <outline text="Últimas noticias | EL PAÍS" xmlUrl="http://ep00.epimg.net/rss/tags/ultimas_noticias.xml" htmlUrl="http://elpais.com/rss/tags/ultimas_noticias.xml"/>
+    <outline text="Mozilla Hacks - the Web developer blog" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl=""/>
   </body>
 </opml>
