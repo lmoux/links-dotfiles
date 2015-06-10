@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>Feeds exported by Snackr</title>
-    <dateCreated>Fri Jun 5 18:58:17 2015 UTC</dateCreated>
+    <dateCreated>Wed Jun 10 13:51:28 2015 UTC</dateCreated>
   </head>
   <body>
     <outline text="" xmlUrl="http://puertoricotaxincentives.com/feed/" htmlUrl=""/>
@@ -195,6 +195,7 @@
     <outline text="Microsoft SQL Server Development Customer Advisory Team" xmlUrl="http://blogs.msdn.com/b/sqlcat/rss.aspx" htmlUrl="http://blogs.msdn.com/b/sqlcat/"/>
     <outline text="Miguel de Icaza" xmlUrl="http://tirania.org/blog/miguel.rss2" htmlUrl="http://tirania.org/blog//index.html"/>
     <outline text="Mises Institute" xmlUrl="http://mises.org/about/social/media/rss-feed" htmlUrl="https://mises.org/feed/rss.xml"/>
+    <outline text="Mozilla Hacks - the Web developer blog" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl=""/>
     <outline text="Mundo" xmlUrl="http://elcomercio.pe/feed/mundo.xml" htmlUrl="http://elcomercio.pe/"/>
     <outline text="NCJRS" xmlUrl="https://www.ncjrs.gov/app/ncjrsfeed/feed.ashx?uid=1b2af0ef-6f42-62f6-6447-ead1cda5f0a8" htmlUrl="http://www.ncjrs.gov/indexrss.html"/>
     <outline text="NHC Atlantic" xmlUrl="http://www.nhc.noaa.gov/index-at.xml" htmlUrl="http://www.nhc.noaa.gov/"/>
@@ -399,6 +400,8 @@
     <outline text="xkcd.com" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="http://xkcd.com/"/>
     <outline text="{errorception} blog" xmlUrl="http://feeds.feedburner.com/errorceptionBlog" htmlUrl="http://blog.errorception.com/"/>
     <outline text="Últimas noticias | EL PAÍS" xmlUrl="http://ep00.epimg.net/rss/tags/ultimas_noticias.xml" htmlUrl="http://elpais.com/rss/tags/ultimas_noticias.xml"/>
-    <outline text="Mozilla Hacks - the Web developer blog" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl=""/>
+    <outline text="WSJ.com: World News" xmlUrl="http://www.wsj.com/xml/rss/3_7085.xml" htmlUrl="http://online.wsj.com/page/2_0006.html"/>
+    <outline text="WSJ.com: Markets" xmlUrl="http://www.wsj.com/xml/rss/3_7031.xml" htmlUrl="http://online.wsj.com"/>
+    <outline text="dave^2 = -1" xmlUrl="http://feeds2.feedburner.com/davesquared" htmlUrl="http://davesquared.net/"/>
   </body>
 </opml>
