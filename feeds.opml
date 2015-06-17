@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>Feeds exported by Snackr</title>
-    <dateCreated>Wed Jun 10 13:51:28 2015 UTC</dateCreated>
+    <dateCreated>Wed Jun 17 17:21:53 2015 UTC</dateCreated>
   </head>
   <body>
     <outline text="" xmlUrl="http://puertoricotaxincentives.com/feed/" htmlUrl=""/>
@@ -173,7 +173,7 @@
     <outline text="Learning with French-Podcasts.com" xmlUrl="http://www.french-podcasts.com/?feed=rss2" htmlUrl=""/>
     <outline text="LearningRadiology Video Podcasts" xmlUrl="http://www.learningradiology.com/ipod/itunes.xml" htmlUrl="http://www.learningradiology.com/ipod/itunes.xml"/>
     <outline text="Les Echos - Finances &amp; Marchés" xmlUrl="http://syndication.lesechos.fr/rss/rss_finance-marches.xml" htmlUrl="http://www.lesechos.fr/finance-marches/"/>
-    <outline text="Les Echos - actualité france" xmlUrl="http://syndication.lesechos.fr/rss/rss_france.xml" htmlUrl="http://www.lesechos.fr/economie-france/"/>
+    <outline text="Les Echos - Economie France" xmlUrl="http://syndication.lesechos.fr/rss/rss_france.xml" htmlUrl="http://www.lesechos.fr/economie-france/"/>
     <outline text="Les Echos - actualité internationale" xmlUrl="http://syndication.lesechos.fr/rss/rss_monde.xml" htmlUrl="http://www.lesechos.fr/monde/"/>
     <outline text="Les Echos - analyse de la séance boursière" xmlUrl="http://syndication.lesechos.fr/rss/rss_anafi.xml" htmlUrl="http://www.lesechos.fr/investisseurs/analyse_seance/"/>
     <outline text="Libros" xmlUrl="http://feeds.feedburner.com/lavanguardia/libros" htmlUrl="http://www.lavanguardia.com/libros/index.html"/>
@@ -248,7 +248,7 @@
     <outline text="Philosophy Now" xmlUrl="https://philosophynow.org/podcasts/rss" htmlUrl="https://philosophynow.org/podcasts"/>
     <outline text="Pluralsight blog" xmlUrl="http://blog.pluralsight.com/feed" htmlUrl=""/>
     <outline text="Politiken.dk - Forsiden" xmlUrl="http://politiken.dk/rss/senestenyt.rss" htmlUrl="http://politiken.dk/"/>
-    <outline text="Politique - Société - Les Echos" xmlUrl="http://syndication.lesechos.fr/rss/rss_politique_societe.xml" htmlUrl="http://www.lesechos.fr/politique-societe/"/>
+    <outline text="Les Echos - Politique" xmlUrl="http://syndication.lesechos.fr/rss/rss_politique_societe.xml" htmlUrl="http://www.lesechos.fr/politique-societe/"/>
     <outline text="Portada" xmlUrl="http://feeds.feedburner.com/lavanguardia/home" htmlUrl="http://www.lavanguardia.com/index.html"/>
     <outline text="Portada // elmundo" xmlUrl="http://estaticos04.elmundo.es/rss/portada.xml" htmlUrl="http://www.elmundo.es"/>
     <outline text="Portada de EL PAÍS" xmlUrl="http://ep00.epimg.net/rss/elpais/portada.xml" htmlUrl="http://elpais.com/rss/elpais/portada.xml"/>
@@ -291,7 +291,7 @@
     <outline text="SQL Bad Practices » TSQL" xmlUrl="http://www.sqlbadpractices.com/category/tsql/feed/" htmlUrl=""/>
     <outline text="SQL Studies" xmlUrl="http://sqlstudies.com/feed/" htmlUrl=""/>
     <outline text="SSY Online: News RSS feed" xmlUrl="http://www.ssyonline.com/news/rss/" htmlUrl="http://www.ssyonline.com/news/rss/"/>
-    <outline text="Sacha's blog" xmlUrl="https://sachabarbs.wordpress.com/feed/" htmlUrl=""/>
+    <outline text="Sacha's Blog Of Programmaticalness" xmlUrl="https://sachabarbs.wordpress.com/feed/" htmlUrl=""/>
     <outline text="Scott Hanselman's Blog" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="http://www.hanselman.com/blog/"/>
     <outline text="Sharp Things" xmlUrl="http://blogs.msdn.com/b/jomo_fisher/atom.aspx" htmlUrl="http://blogs.msdn.com/b/jomo_fisher/"/>
     <outline text="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="http://slashdot.org/"/>
@@ -315,7 +315,7 @@
     <outline text="The GitHub Blog" xmlUrl="https://github.com/blog/all.atom" htmlUrl="https://github.com/blog"/>
     <outline text="The Haskell Cast" xmlUrl="http://www.haskellcast.com/feed.xml" htmlUrl="http://www.haskellcast.com"/>
     <outline text="The History of English Podcast" xmlUrl="http://historyofenglishpodcast.com/feed/podcast/" htmlUrl=""/>
-    <outline text="The Partially Examined Life" xmlUrl="http://feeds.feedburner.com/partiallyexaminedlife/blog" htmlUrl="http://www.partiallyexaminedlife.com"/>
+    <outline text="The Partially Examined Life Philosophy Podcast" xmlUrl="http://feeds.feedburner.com/partiallyexaminedlife/blog" htmlUrl="http://www.partiallyexaminedlife.com"/>
     <outline text="The Seattle Times" xmlUrl="http://seattletimes.com/rss/home.xml" htmlUrl=""/>
     <outline text="The Seattle Times » Jon Talton" xmlUrl="http://blogs.seattletimes.com/jontalton/feed/" htmlUrl=""/>
     <outline text="The Seattle Times » Sections » Business" xmlUrl="http://seattletimes.com/rss/businesstechnology.xml" htmlUrl=""/>
@@ -403,5 +403,7 @@
     <outline text="WSJ.com: World News" xmlUrl="http://www.wsj.com/xml/rss/3_7085.xml" htmlUrl="http://online.wsj.com/page/2_0006.html"/>
     <outline text="WSJ.com: Markets" xmlUrl="http://www.wsj.com/xml/rss/3_7031.xml" htmlUrl="http://online.wsj.com"/>
     <outline text="dave^2 = -1" xmlUrl="http://feeds2.feedburner.com/davesquared" htmlUrl="http://davesquared.net/"/>
+    <outline text="Jeroen Janssens" xmlUrl="http://jeroenjanssens.com/feed.xml" htmlUrl="http://www.jeroenjanssens.com"/>
+    <outline text="Naveen's Blog" xmlUrl="http://naveensrinivasan.com/feed/" htmlUrl=""/>
   </body>
 </opml>
